@@ -1,0 +1,33 @@
+$GRAVITY
+0.1
+
+$BONUS CHANCE
+100
+
+--------------------------------
+X (Double)
+Y (Double)
+Horizontal speed (Double)
+Size (Integer)
+Start Direction (Direction: LEFT, RIGHT)
+Split (Integer)
+Shoots (Boolean)
+-------------------------------
+
+$BALL 1
+0.7
+0.1
+1.5
+40
+RIGHT
+0
+false
+
+$BALL 2
+0.3
+0.2
+1.8
+50
+LEFT
+0
+false
